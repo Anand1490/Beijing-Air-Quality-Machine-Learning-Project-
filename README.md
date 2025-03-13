@@ -25,7 +25,7 @@ Using python, I took twelve different data sets from different stations around B
 
 ## Results:
  Through feature engineering and running regression analysis, I found that the NO2 air pollutant is most prevalent  in colder temperatures and in particular possibly in the colder months and seasons. This could be attributed to increased gas from homes due to the increased heating usage in the colder temperatures. Streamlining these uses could decrease the air pollutant NO2 in the city. Some of the best classifiers that performed the best as shown in the figure below are Neural Networks and Logistic Regression which should be looked at to be used in future work. Finally, in the clustering and association phase of the project, found that there is low confidence in the weather being warm when there is high levels of NO2 which matches may conclusions from the regression phase of the project.   
-![Alt Text]([(https://github.com/Anand1490/Beijing-Air-Quality-Machine-Learning-Project-/blob/main/algorithms.PNG]))   
+![Alt Text]([(https://github.com/Anand1490/Beijing-Air-Quality-Machine-Learning-Project-/blob/main/algorithms.PNG])  
 
 ## Next Steps:
 1. Conduct time based analysis with the time features from the data set.
