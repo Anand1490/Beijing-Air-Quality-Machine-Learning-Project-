@@ -18,7 +18,7 @@ Using python, I took twelve different data sets from different stations around B
 ## Skills:
 1.Python: Numpy, Scikit Learn, Matplotlib, Seaborn, Pandas, Statistics  
 2.Data Cleaning   
-3.Exploratory Data Analysis 
+3.Exploratory Data Analysis   
 4.Visualization  
 5.Modeling  
 6.Feature Engineering  
