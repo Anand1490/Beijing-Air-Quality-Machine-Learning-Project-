@@ -16,12 +16,12 @@ Using python, I took twelve different data sets from different stations around B
 4. Conducted clustering and association for further analysis on air pollutant NO2.
 
 ## Skills:
-1.Python: Numpy, Scikit Learn, Matplotlib, Seaborn, Pandas, Statistics  
-2.Data Cleaning   
-3.Exploratory Data Analysis   
-4.Visualization  
-5.Modeling  
-6.Feature Engineering  
+1. Python: Numpy, Scikit Learn, Matplotlib, Seaborn, Pandas, Statistics  
+2. Data Cleaning   
+3. Exploratory Data Analysis   
+4. Visualization  
+5. Modeling  
+6. Feature Engineering  
 
 ## Results:
  Through feature engineering and running regression analysis, I found that the NO2 air pollutant is most prevalent  in colder temperatures and in particular possibly in the colder months and seasons. This could be attributed to increased gas from homes due to the increased heating usage in the colder temperatures. Streamlining these uses could decrease the air pollutant NO2 in the city. Some of the best classifiers that performed the best as shown in the figure below are Neural Networks and Logistic Regression which should be looked at to be used in future work. Finally, in the clustering and association phase of the project, found that there is low confidence in the weather being warm when there is high levels of NO2 which matches may conclusions from the regression phase of the project.   
